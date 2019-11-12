@@ -1,0 +1,22 @@
+.btn-contact{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    height: 45px;
+    border: 2px solid whitesmoke;
+    background: none;
+    color: white;
+    font-weight: 400;
+    border-radius: 2px;
+
+}
+
+h6 {
+    color: whitesmoke;
+}
+.btn:hover{
+    border: 2px solid whitesmoke;;
+    color: #07294b;
+    background: whitesmoke;
+}
